@@ -8,8 +8,11 @@ This project is designed to get you acquainted with the many supervised learning
 Things you will learn by completing this project:
 
   1.How to identify when preprocessing is needed, and how to apply it.
+  
   2.How to establish a benchmark for a solution to the problem.
+  
   3.What each of several supervised learning algorithms accomplishes given a specific dataset.
+  
   4.How to investigate whether a candidate solution model is adequate for the problem.
   
 The success of your model will be determined based on your models AUC or area under the curve associated with ROC curves.
